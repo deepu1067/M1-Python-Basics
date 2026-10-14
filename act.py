@@ -78,3 +78,9 @@ elif a%4 == 0 or a%2 == 0:
     print("bana")
 elif a != 3:
     print("nab")
+
+
+
+ch = input("Enter a character: ")
+
+print("ASCII value:", ord(ch))
